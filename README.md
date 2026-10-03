@@ -35,7 +35,7 @@ The workflow includes:
 4. Differential expression analysis
 5. Multiple-testing correction using FDR
 6. Volcano plot visualization
-7. Functional/pathway enrichment analysis
+7. Functional/pathway enrichment analysis (will update in future after learning more about this).
 
 ## Tools
 
